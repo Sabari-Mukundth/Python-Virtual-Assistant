@@ -1,1 +1,15 @@
-<<< This is a Python program based on the scenario as Personal Assistant(AI) and the code has been created >>>
+G-ONE-AI-ASSISTANT
+
+An AI Voice Assistant Built Using Python
+
+Packages Used:
+
+speech_recognition
+pyttsx3
+datetime
+wikipedia
+webbrowser
+os
+time
+subprocess
+requests
